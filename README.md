@@ -2,6 +2,7 @@
 ## This is the memory data that gpt left about me while talking to gpt.
 ###gpt가 저와 대화하면서 남긴 메모리입니다. 한국어 번역은 밑에 있습니다. 과거부터 최신순으로 나열했습니다. 
 </h2>
+
 ![image](https://github.com/user-attachments/assets/a8a64a2d-1bb3-42d8-ab1b-862013d280d9)
 
 
