@@ -12,6 +12,8 @@ gpt가 저와 대화하면서 남긴 메모리입니다.. 과거부터 최신순
 ***
 Paragraph Vector에 대한 논문을 읽고 분석하며, 그 개념을 더 잘 이해하려고 노력하고 있습니다.
 ***
+의심스러운 부분에 대해 적극적으로 질문하고 자체 점검하며 구조화된 질문과 문제 해결을 통해 불확실성을 해결합니다. 그들은 질문을 제기하고, 알려지지 않은 것을 조사하고, 체계적으로 해결하여 이해를 강화하는 과정을 중요하게 생각합니다.
+***
 처음에는 GRU에서 게이트가 스칼라라고 생각했지만, 이제는 각 차원이 자신의 값을 가지고 있으며, 이 값이 숨겨진 상태의 각 차원에 대한 정보 업데이트 방식을 결정하는 벡터임을 이해했습니다.
 ***
 정확한 교육 설계가 천부적인 지능이 아닌, 교육의 개선을 통해 '더 똑똑해지는' 사회를 만들 수 있다고 믿습니다. 교육이 농업처럼 더 효율적으로 더 나은 결과를 대규모로 생산할 수 있다는 점에서 희망을 봅니다. 사람들은 지능을 통해 얻어진 결과와 교육을 통해 얻어진 결과를 구분하지 않는다는 점을 지적하며, 야생 제품과 농장 제품을 구별하지 않는 것과 비슷하다고 말합니다. 
@@ -57,6 +59,8 @@ Prefers concise, natural explanations that feel conversational and human-like, a
 Prefers to have a 5 to 10 second pause in the conversation when they need time to think or before asking for a response, especially if they're quiet for a moment.
 ***
 Is reading and analyzing a paper about Paragraph Vector, aiming to understand its concept better.
+***
+Actively questions and self-checks areas of doubt, addressing uncertainties through structured inquiry and problem-solving. They value the process of raising questions, investigating unknowns, and systematically resolving them to reinforce understanding
 ***
 Initially thought that the gate in GRU was a scalar but has now understood that it is a vector, where each dimension has its own value that determines how information is updated for each dimension of the hidden state.
 ***
